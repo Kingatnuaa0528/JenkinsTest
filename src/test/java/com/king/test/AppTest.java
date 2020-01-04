@@ -16,6 +16,6 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
-        System.out.println("After Junit Case!");
+        System.out.println("After Junit Case1111!");
     }
 }
